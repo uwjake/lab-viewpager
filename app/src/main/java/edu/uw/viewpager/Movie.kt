@@ -7,6 +7,7 @@ import kotlinx.android.parcel.Parcelize
 /**
  * A class that represents information about a movie.
  */
+
 @Parcelize
 class Movie(
         var title: String,
